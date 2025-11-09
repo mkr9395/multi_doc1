@@ -1,0 +1,4 @@
+pdfminer.six
+uv add "unstructured[all-docs]"
+pillow
+pi-heif
